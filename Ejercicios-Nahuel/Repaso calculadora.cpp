@@ -18,6 +18,15 @@ cin>>b;
  
  cout<<"el valor del meju es"<<endl;
  cout<<a+b;
+cout<<a-b;
+cout<<a*b;
+cout<<a/b;
+
+cout<<"/nEl valor de la suma es:"<<a+b<<endl;
+cout<<"El valor de la resta es:"<<a-b<<endl;
+cout<<"el valor de la multiplicacion es:"<<a*b<<endl;
+cout<<"el valor de la division es:"<<a/b<<endl;
+
 
 
 
