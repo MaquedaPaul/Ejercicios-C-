@@ -23,6 +23,7 @@ cout<<"El primer resultado es: "<<resultado1<<endl;
 cout<<"El segundo resultado es : "<<resultado2<<endl;
 
 
+//alt + flecha, ctrl+shift+flecha, ctrl+K+C, ctrl+K+U, ctrl+flecha;
 
     return 0;
 } 
