@@ -17,7 +17,7 @@ cin>>linea;
 
 cout<<"Digite el rol del campeón: ";
 cin>>rol;
-
+//s
 cout<<"Digite el precio en EA: ";
 cin>>precio;
 
