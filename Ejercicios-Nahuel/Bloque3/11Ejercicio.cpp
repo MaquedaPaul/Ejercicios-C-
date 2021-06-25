@@ -15,13 +15,13 @@ cin>>opc;
 
 switch(opc) {
 case 1:
-cout<<"Digite la cantidad de dinero que desea ingresar";
+cout<<"Digite la cantidad de dinero que desea ingresar: ";
 cin>>extra;
 saldo=Saldo_inicial+extra;
 cout<<"Dinero en cuenta: "<<saldo;break;
 
 case 2:
-cout<<"Digite la cantidad de dinero que desea retirar";
+cout<<"Digite la cantidad de dinero que desea retirar: ";
 cin>>retiro;
 
 if(retiro>saldo)        {
