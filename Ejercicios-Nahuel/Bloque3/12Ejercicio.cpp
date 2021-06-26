@@ -18,7 +18,7 @@ int opcion, numero, cubo;
 
 switch(opcion){
 case 1:
-cout<<"Digite el valor del numero que quiera elevar al Cubo";
+cout<<"Digite el valor del numero que quiera elevar al Cubo: ";
 cin>>numero;
 cubo = pow(numero,3);
 cout<<"El valor del numero es: "<<cubo<<endl;
