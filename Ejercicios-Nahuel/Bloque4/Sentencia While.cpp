@@ -7,7 +7,7 @@ int main(){
 
    i=1;
 
-   while(i<=10){
+   while(i<=1000){
        cout<<i<<endl;
        i++;
    }

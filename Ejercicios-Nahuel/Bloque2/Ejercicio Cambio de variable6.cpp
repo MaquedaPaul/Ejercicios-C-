@@ -11,7 +11,7 @@ int main(){
     cin>>b;
     cout<<"Digite la tercera nota Final del Alumno A:";
     cin>>c;
-    NotaFinalMediaAlumnoA = (a+b+c)/3;
+    NotaFinalMediaAlumnoA =(a+b+c)/ 3;
     cout<<"La nota final Media del alumno A es: "<<NotaFinalMediaAlumnoA<<endl;
 
 
