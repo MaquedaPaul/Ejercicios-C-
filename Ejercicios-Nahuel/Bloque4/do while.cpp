@@ -10,7 +10,7 @@ i=10;
 do{
     cout<<i<<endl;
     i--;
-}while(i>1);
+}while(i>=1);
 
 system("pause");//es parte de stdlib.h
     return 0;
